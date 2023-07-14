@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "KK/pskHiG8M2ZNxwQvp0Ynv/H/2myvNGrjnIeDAidLMMPoVerVyKmL2SdP6hXkMUXoM6Mx4RoWchWFH2HJJtpg==",
+  "success": true,
+  "projectFilePath": "D:\\YoutubeTutorial\\NickChapsas\\MinimalAPI\\FastEndpointTutorial\\FastEndpointTutorial.Api\\FastEndpointTutorial.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\fastendpoints\\5.13.0\\fastendpoints.5.13.0.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\fastendpoints.attributes\\5.13.0\\fastendpoints.attributes.5.13.0.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\fastendpoints.messaging.core\\5.13.0\\fastendpoints.messaging.core.5.13.0.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.data.sqlite\\7.0.9\\microsoft.data.sqlite.7.0.9.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\dougl\\.nuget\\packages\\valueof\\2.0.31\\valueof.2.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

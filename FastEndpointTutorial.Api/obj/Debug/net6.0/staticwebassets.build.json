@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iEjKRt7xh2v/E8yxM1YfjkwWQbavL25akvR63grqoU8=",
+  "Source": "FastEndpointTutorial.Api",
+  "BasePath": "_content/FastEndpointTutorial.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
