@@ -134,6 +134,11 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+# Ignorar arquivos criados pelo JetBrains Rider
+/.idea/
+*.sln.iml
+*.csproj.user
+
 # TeamCity is a build add-in
 _TeamCity*
 
@@ -371,7 +376,6 @@ FodyWeavers.xsd
 
 # globs
 Makefile.in
-*.userprefs
 *.usertasks
 config.make
 config.status
@@ -439,10 +443,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# JetBrains Rider
-.idea/
-*.sln.iml
 
 ##
 ## Visual Studio Code
